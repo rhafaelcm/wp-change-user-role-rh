@@ -1,40 +1,22 @@
-# wp-change-user-role-rh
-=== WP Change User Role RH ===
-Description: 
-Version: 1.0
-Author: Rhafael da Costa Martins
-Tags: woocommerce, change, user, role
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+# WooCommerce Extra Checkout Fields for Brazil #
+**Contributors:** [rhafaelcm](https://github.com/rhafaelcm)  
+**Tags:** woocommerce, change, user, role 
+**Requires at least:** 3.5  
+**License:** GPLv2 or later  
+**License URI:** http://www.gnu.org/licenses/gpl-2.0.html  
 
-WP Change User Role RH
+Adds Brazilian checkout fields in WooCommerce
 
-== Description ==
+## Description ##
 
 Esse Plugin troca o user role para outro automaticamente conforme Estado do endereço de cobrança. Útil quando se deseja aplicar alguns filtros utilizando outros plugins que filtra apenas o user role.
 
-= Compatibilidade =
+### Compatibilidade ###
 
 Compatível desde a versão 3.0.x do WooCommerce.
 
-== Frequently Asked Questions ==
+## Screenshots ##
 
-= Qual é a licença do plugin? =
-
-* Este plugin esta licenciado como GPL.
-
-= O que eu preciso para utilizar este plugin? =
-
-* Ter instalado o plugin WooCommerce.
-
-== Screenshots ==
-
-1. Página de configurações
-
-== Changelog ==
-
-
-
-== Upgrade Notice ==
-
+### 1. Página de configurações ###
+![Página de configurações](https://github.com/rhafaelcm/wp-change-user-role-rh/blob/master/Screenshots1.jpg)
 
